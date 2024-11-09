@@ -24,7 +24,7 @@ A Solidity-based TokenVault contract that facilitates deposits, shares calculati
 
 Clone the Repository:
 
-`git clone https://github.com/your-username/TokenVault.git`  
+`git clone https://github.com/uzairkath/TokenVault.git`  
 `cd TokenVault`
 
 Install Dependencies:
